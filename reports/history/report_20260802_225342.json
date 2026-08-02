@@ -1,0 +1,128 @@
+{
+  "niche": "AI tools for students",
+  "market_score": 63,
+  "competition_score": 67,
+  "monetization_score": 75,
+  "recommendation": "Avoid",
+  "audience": {
+    "profile": "The ideal viewer is students balancing school, work, and deadlines and curious learners who want faster results with less effort.",
+    "pain_points": [
+      "Too many tools and not enough trustworthy guidance",
+      "Confusion about what actually saves time",
+      "Fear of wasting money on the wrong software"
+    ],
+    "desires": [
+      "Clear recommendations with real-world examples",
+      "Simple step-by-step workflows",
+      "Actionable comparisons and honest trade-offs"
+    ]
+  },
+  "competitors": [
+    {
+      "name": "Tech Education Creators",
+      "subscriber_estimate": "100k-500k",
+      "content_style": "Tutorials, reviews, and practical explainers",
+      "hook": "Uses strong problem-solution framing and clear thumbnails",
+      "gap": "Often over-explains and under-serves beginner viewers",
+      "scrape_status": "connected",
+      "last_checked": "2026-08-02T22:53:42Z"
+    },
+    {
+      "name": "Student Productivity Channels",
+      "subscriber_estimate": "50k-250k",
+      "content_style": "Productivity systems and study hacks",
+      "hook": "Leans heavily on personal stories and relatable examples",
+      "gap": "Rarely combines tools with a strong decision framework",
+      "scrape_status": "connected",
+      "last_checked": "2026-08-02T22:53:42Z"
+    },
+    {
+      "name": "AI Tool Review Channels",
+      "subscriber_estimate": "200k+",
+      "content_style": "Fast comparisons and workflow demos",
+      "hook": "High-volume short-form and list-based titles",
+      "gap": "Often misses audience-specific use cases and beginner pain points",
+      "scrape_status": "connected",
+      "last_checked": "2026-08-02T22:53:42Z"
+    }
+  ],
+  "video_opportunities": [
+    {
+      "title": "Best Ai Tools For Students Ideas for 2026",
+      "viral_score": 78,
+      "reason": "Combines curiosity with clear utility and strong search intent.",
+      "keywords": [
+        "tools",
+        "students",
+        "guide",
+        "review",
+        "2026"
+      ],
+      "estimated_difficulty": "Medium"
+    },
+    {
+      "title": "I Tried the Top Ai Tools For Students Options",
+      "viral_score": 74,
+      "reason": "Personal experiment framing creates trust and higher click-through potential.",
+      "keywords": [
+        "tools",
+        "students",
+        "comparison",
+        "best",
+        "tools"
+      ],
+      "estimated_difficulty": "Medium"
+    },
+    {
+      "title": "The Ai Tools For Students Strategy That Actually Works",
+      "viral_score": 71,
+      "reason": "A strategy-led angle appeals to viewers seeking a system instead of random tips.",
+      "keywords": [
+        "tools",
+        "students",
+        "strategy",
+        "workflow",
+        "tutorial"
+      ],
+      "estimated_difficulty": "Low"
+    }
+  ],
+  "content_gaps": [
+    {
+      "gap": "Most videos are generic and fail to show the beginner's path.",
+      "opportunity": "Create a simple starter framework with a clear before-and-after transformation."
+    },
+    {
+      "gap": "Many explainers focus on hype rather than results.",
+      "opportunity": "Show realistic outcomes, limitations, and best use cases for each option."
+    },
+    {
+      "gap": "Education-focused content rarely adapts recommendations to different budgets and study styles.",
+      "opportunity": "Build a tiered playbook for beginner, intermediate, and advanced learners."
+    },
+    {
+      "gap": "Tool reviews often skip the workflow and integration angle.",
+      "opportunity": "Demonstrate how tools fit into a full routine rather than presenting them in isolation."
+    }
+  ],
+  "trend_signals": [
+    {
+      "keyword": "tools",
+      "score": 72,
+      "source": "heuristic"
+    },
+    {
+      "keyword": "best tools",
+      "score": 68,
+      "source": "heuristic"
+    },
+    {
+      "keyword": "AI tools for students",
+      "score": 64,
+      "source": "heuristic"
+    }
+  ],
+  "youtube_api_enabled": false,
+  "live_search_results": [],
+  "recommended_strategy": "Focus on beginner-friendly, outcome-driven videos that explain why a tool matters, how to use it in a workflow, and what trade-offs matter most."
+}
