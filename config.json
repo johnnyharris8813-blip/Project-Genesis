@@ -1,0 +1,16 @@
+{
+  "api": {
+    "youtube_api_key": "",
+    "youtube_search_max_results": 5
+  },
+  "history": {
+    "storage_dir": "reports/history",
+    "max_files": 10
+  },
+  "competitor_defaults": {
+    "subscriber_estimate": "50k-250k",
+    "content_style": "educational commentary",
+    "hook": "clear, benefit-first framing",
+    "gap": "under-served beginner audience"
+  }
+}
